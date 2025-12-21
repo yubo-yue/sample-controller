@@ -12,7 +12,8 @@
             "program": "${file}",
             "showLog": true,
             "args": [
-                "-v"
+                "--name=test",
+                "--age=10"
             ]
         },
 
